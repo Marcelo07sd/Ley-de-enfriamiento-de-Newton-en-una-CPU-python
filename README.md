@@ -1,0 +1,1 @@
+# Ley-de-enfriamiento-de-Newton-en-una-CPU-python
